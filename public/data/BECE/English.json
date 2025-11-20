@@ -1,0 +1,28 @@
+[
+    {"id":1,
+        "question":"Identify the subject in the sentence : 'Micheal went to the church?",
+        "options": {"A":"went", "B": "Jason", "C":"market", "D":"to"},
+        "answer":"B",
+      "explanation": "The subject of a sentence is the person or thing performing the action. 'Jason' is performing the action of going to the market."
+
+}
+,
+   {
+    "id": 2,
+    "question": "Choose the correct verb in the sentence: 'Jason reads a book every evening.'",
+    "options": {
+      "A": "Jason", "B": "reads","C": "book","D": "evening"
+    },
+    "answer": "B",
+    "explanation": "The verb is the action word. 'Reads' shows what Jason is doing."
+  },
+  {
+    "id": 3,
+    "question": "What is the object in the sentence: 'Jason bought a pen.'",
+    "options": {"A": "Jason","B": "bought","C": "pen", "D": "a"
+    },
+    "answer": "C",
+    "explanation": "The object receives the action of the verb. 'Pen' is what Jason bought."
+  }
+
+]

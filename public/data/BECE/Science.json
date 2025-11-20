@@ -1,0 +1,23 @@
+[
+    {"id":1,
+        "question":"Which of the following is an aquatic anomal?",
+        "options": {"A":"Dog", "B": "Sharks", "C":"Chicken", "D":"Pig"},
+        "answer":"B",
+        "explanation": "Sharks are aquatic animal because they lives in the water"
+}
+,
+    {"id":2,
+        "question":"Which of the following is a mammal?",
+         "options": {"A":"Shark", "B": "Frog", "C":"Whale", "D":"Crocodile"},
+        "answer":"C",
+        
+        "explanation": "Whales are mammals because they give birth to live young and breathe air"
+}
+,
+    {"id":3,
+        "question":"Which of the following is a wild animal?",
+     "options": {"A":"Lion", "B": "LIzard", "C":"Goat", "D":"Pig"},
+        "answer":"A",
+        "explanation": "Lion is a wild animal  the lives in wild"
+}
+]

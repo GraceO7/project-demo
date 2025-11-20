@@ -1,0 +1,23 @@
+[
+    {"id":1,
+        "question":"What is 20 + 10?",
+        "options": {"A":"10", "B": "30", "C":"12", "D":"40"},
+        "answer":"B",
+        "explanation": "20 +  10 equal 30 bacause adding twenty to ten results in thirty"
+}
+,
+    {"id":2,
+        "question":"What is 2 + 2?",
+         "options": {"A":"8", "B": "5", "C":"10", "D":"4"},
+        "answer":"D",
+        
+        "explanation": "20 +  10 equal 30 bacause adding twenty to ten results in thirty"
+}
+,
+    {"id":3,
+        "question":"What is 20 + 1?",
+     "options": {"A":"21", "B": "0", "C":"12", "D":"30"},
+        "answer":"A",
+        "explanation": "20 +  10 equal 30 bacause adding twenty to ten results in thirty"
+}
+]
